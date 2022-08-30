@@ -47,10 +47,10 @@ Com os softwares instalados, siga as instruções abaixo:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/pimentajr/project-movie-card-library-crud
+git clone https://github.com/pimentajr/trybe-movie-card-library-crud
 
 # Entrar no diretório
-cd project-movie-card-library-crud
+cd trybe-movie-card-library-crud
 
 # Baixar as dependências
 npm i
